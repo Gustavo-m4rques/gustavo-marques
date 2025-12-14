@@ -7,4 +7,4 @@ e atualmente sou analista de sistemas. Sou apaixonado por projetos de código ab
 
 No meu tempo livre gosto de jogar (e assistir) futebol (⚽️), assistir filmes (🎞️) e séries (📺), ler livros (📚), ouvir música (🎵).
 
-🔭 Atualmente estou reaprendendo o mundo da programação novamente. 🌱 Estou aprendendo React JS, React Native e JavaScript. 🎓👨‍🎓 Estou começando a faculdade em Gestão de Tecnologia da Informação. 📌 Moro em Curitba - PR
+🔭 Atualmente estou reaprendendo o mundo da programação novamente. 🌱 Estou aprendendo React JS, React Native e JavaScript. 🎓👨‍🎓 Estou começando a faculdade em Gestão de Tecnologia da Informação. 📌 Moro em Curitba - PR.
